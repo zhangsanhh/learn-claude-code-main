@@ -1,0 +1,2 @@
+{"event": "worktree.create.before", "ts": 1776992273.707482, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "base_ref": "HEAD"}}
+{"event": "worktree.create.failed", "ts": 1776992273.7078981, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "base_ref": "HEAD"}, "error": "Not in a git repository. worktree tools require git."}

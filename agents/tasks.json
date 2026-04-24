@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Add docstrings to greet.py",
+    "description": "Add proper docstrings to all functions in greet.py",
+    "status": "open"
+  },
+  {
+    "id": 2,
+    "title": "Write a unit test for hello.py",
+    "description": "Create a test in the tests/ directory covering the main function in hello.py",
+    "status": "open"
+  },
+  {
+    "id": 3,
+    "title": "Update README with project usage examples",
+    "description": "Add a usage examples section to README.md showing how to run the scripts",
+    "status": "open"
+  },
+  {
+    "id": 4,
+    "title": "Create a requirements.txt check script",
+    "description": "Write a simple Python script that reads requirements.txt and prints each dependency with its version",
+    "status": "open"
+  },
+  {
+    "id": 5,
+    "title": "Add a farewell function to greet.py",
+    "description": "Add a farewell(name) function to greet.py that returns a goodbye message for the given name",
+    "status": "open"
+  },
+  {
+    "id": 6,
+    "title": "Create a note-taking CLI script",
+    "description": "Write a simple Python script (notes.py) that accepts a message as a command-line argument and appends it with a timestamp to note.txt",
+    "status": "open"
+  }
+]
