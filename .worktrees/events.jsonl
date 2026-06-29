@@ -1,2 +1,6 @@
 {"event": "worktree.create.before", "ts": 1776992273.707482, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "base_ref": "HEAD"}}
 {"event": "worktree.create.failed", "ts": 1776992273.7078981, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "base_ref": "HEAD"}, "error": "Not in a git repository. worktree tools require git."}
+{"event": "worktree.create.before", "ts": 1776992289.255129, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "base_ref": "HEAD"}}
+{"event": "worktree.create.failed", "ts": 1776992289.2555609, "task": {"id": 1}, "worktree": {"name": "auth-refactor", "base_ref": "HEAD"}, "error": "Not in a git repository. worktree tools require git."}
+{"event": "worktree.create.before", "ts": 1776992314.1240199, "task": {"id": 2}, "worktree": {"name": "ui-login", "base_ref": "HEAD"}}
+{"event": "worktree.create.failed", "ts": 1776992314.124695, "task": {"id": 2}, "worktree": {"name": "ui-login", "base_ref": "HEAD"}, "error": "Not in a git repository. worktree tools require git."}
